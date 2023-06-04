@@ -1,0 +1,241 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-5) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-6) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-7) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-8) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-9) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-10) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-11) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-12) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-13) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-14) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-15) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.109 --> 00:00:01.779 align:undefined
+<c.cue-0>Principle of authority. </c>
+
+cue-1
+00:00:02.460 --> 00:00:06.210 align:undefined
+<c.cue-1>People who are regarded as authoritative and knowledgeable in a particular </c>
+
+cue-2
+00:00:06.219 --> 00:00:09.750 align:undefined
+<c.cue-2>area are often viewed as more influential, perhaps because </c>
+
+cue-3
+00:00:09.760 --> 00:00:13.149 align:undefined
+<c.cue-3>credibility and authority are important components of trust. </c>
+
+cue-4
+00:00:13.909 --> 00:00:17.469 align:undefined
+<c.cue-4>The more we trust someone, the more likely we are to comply with their </c>
+
+cue-5
+00:00:17.479 --> 00:00:18.479 align:undefined
+<c.cue-5>suggestions. </c>
+
+cue-6
+00:00:19.090 --> 00:00:22.969 align:undefined
+<c.cue-6>As a result, when we want to make good decisions, we tend to rely </c>
+
+cue-7
+00:00:22.979 --> 00:00:25.450 align:undefined
+<c.cue-7>on advice given by experts in the field. </c>
+
+cue-8
+00:00:26.129 --> 00:00:29.510 align:undefined
+<c.cue-8>The utilization of authority figures to deceive users is a </c>
+
+cue-9
+00:00:29.520 --> 00:00:31.610 align:undefined
+<c.cue-9>widespread and potent tactic. </c>
+
+cue-10
+00:00:32.359 --> 00:00:36.048 align:undefined
+<c.cue-10>In some spear phishing campaigns or emails, the malicious actors </c>
+
+cue-11
+00:00:36.058 --> 00:00:40.058 align:undefined
+<c.cue-11>impersonate the Chief Executive Officer and compel the Chief Financial Officer </c>
+
+cue-12
+00:00:40.069 --> 00:00:41.418 align:undefined
+<c.cue-12>to wire money promptly. </c>
+
+cue-13
+00:00:42.069 --> 00:00:45.840 align:undefined
+<c.cue-13>This technique when combined with urgency can create fear in </c>
+
+cue-14
+00:00:45.849 --> 00:00:49.180 align:undefined
+<c.cue-14>individuals who may be hesitant to refuse their superiors </c>
+
+cue-15
+00:00:49.189 --> 00:00:49.900 align:undefined
+<c.cue-15>request. </c>

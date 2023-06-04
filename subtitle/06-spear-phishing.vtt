@@ -1,0 +1,76 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.009 --> 00:00:03.700 align:undefined
+<c.cue-0>Spear phishing: This is a targeted form of fishing where the attacker </c>
+
+cue-1
+00:00:03.710 --> 00:00:07.400 align:undefined
+<c.cue-1>researches the victim's background and customizes the attack to appear more </c>
+
+cue-2
+00:00:07.409 --> 00:00:08.159 align:undefined
+<c.cue-2>convincing. </c>
+
+cue-3
+00:00:08.859 --> 00:00:12.840 align:undefined
+<c.cue-3>The attacker may use personal information such as the victim's name, </c>
+
+cue-4
+00:00:12.850 --> 00:00:16.850 align:undefined
+<c.cue-4>job title or employer to make the message seem more legitimate. </c>

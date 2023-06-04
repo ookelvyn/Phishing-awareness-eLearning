@@ -1,0 +1,466 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-5) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-6) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-7) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-8) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-9) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-10) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-11) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-12) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-13) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-14) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-15) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-16) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-17) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-18) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-19) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-20) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-21) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-22) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-23) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-24) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-25) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-26) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-27) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-28) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-29) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-30) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.009 --> 00:00:01.700 align:undefined
+<c.cue-0>Suspicious sender:</c>
+
+cue-1
+00:00:02.329 --> 00:00:05.900 align:undefined
+<c.cue-1>Check the sender's email address and see if it looks genuine. </c>
+
+cue-2
+00:00:06.579 --> 00:00:10.289 align:undefined
+<c.cue-2>Sometimes phishing emails may use an email address that looks </c>
+
+cue-3
+00:00:10.300 --> 00:00:13.279 align:undefined
+<c.cue-3>similar to a legitimate one but has a small difference. </c>
+
+cue-4
+00:00:13.909 --> 00:00:17.899 align:undefined
+<c.cue-4>For example, support@google.com may become  </c>
+
+cue-5
+00:00:17.909 --> 00:00:19.030 align:undefined
+<c.cue-5>support@goooogle.com. </c>
+
+cue-6
+00:00:19.750 --> 00:00:21.799 align:undefined
+<c.cue-6>Urgent or threatening language:</c>
+
+cue-7
+00:00:22.479 --> 00:00:25.829 align:undefined
+<c.cue-7>Phishing emails often contain language that creates a sense of </c>
+
+cue-8
+00:00:25.840 --> 00:00:29.649 align:undefined
+<c.cue-8>urgency such as urgent action required or threats like "your account will be </c>
+
+cue-9
+00:00:29.659 --> 00:00:31.889 align:undefined
+<c.cue-9>closed if you don't respond immediately". </c>
+
+cue-10
+00:00:32.569 --> 00:00:36.330 align:undefined
+<c.cue-10>There may also use scare tactics such as threatening legal action or account </c>
+
+cue-11
+00:00:36.340 --> 00:00:39.520 align:undefined
+<c.cue-11>suspension to pressure the recipient into taking action </c>
+
+cue-12
+00:00:40.189 --> 00:00:41.840 align:undefined
+<c.cue-12>Grammatical errors: </c>
+
+cue-13
+00:00:42.560 --> 00:00:46.299 align:undefined
+<c.cue-13>Many phishing emails contain grammatical errors and typos </c>
+
+cue-14
+00:00:46.310 --> 00:00:49.060 align:undefined
+<c.cue-14>indicating that they are not from a legitimate source, </c>
+
+cue-15
+00:00:49.740 --> 00:00:51.400 align:undefined
+<c.cue-15>Unfamiliar sender:</c>
+
+cue-16
+00:00:52.069 --> 00:00:55.919 align:undefined
+<c.cue-16>If you receive an email from an unknown sender, it's important to take a </c>
+
+cue-17
+00:00:55.930 --> 00:00:59.490 align:undefined
+<c.cue-17>moment to examine the email before responding or taking any </c>
+
+cue-18
+00:00:59.500 --> 00:01:00.080 align:undefined
+<c.cue-18>action. </c>
+
+cue-19
+00:01:00.750 --> 00:01:04.699 align:undefined
+<c.cue-19>Check the sender's email address to ensure that it matches the sender's name </c>
+
+cue-20
+00:01:04.709 --> 00:01:06.400 align:undefined
+<c.cue-20>and any email signatures.</c>
+
+cue-21
+00:01:07.099 --> 00:01:09.669 align:undefined
+<c.cue-21>Suspicious attachments or links:</c>
+
+cue-22
+00:01:10.260 --> 00:01:14.150 align:undefined
+<c.cue-22>Be wary of links or attachments and emails, especially if they </c>
+
+cue-23
+00:01:14.160 --> 00:01:17.730 align:undefined
+<c.cue-23>are asking you to provide sensitive information or redirecting you to a </c>
+
+cue-24
+00:01:17.739 --> 00:01:18.669 align:undefined
+<c.cue-24>different site. </c>
+
+cue-25
+00:01:19.400 --> 00:01:23.000 align:undefined
+<c.cue-25>It is recommended to hover over any buttons within an email to </c>
+
+cue-26
+00:01:23.010 --> 00:01:24.250 align:undefined
+<c.cue-26>reveal the URL. </c>
+
+cue-27
+00:01:24.809 --> 00:01:27.449 align:undefined
+<c.cue-27>Requests for personal information:</c>
+
+cue-28
+00:01:28.139 --> 00:01:31.769 align:undefined
+<c.cue-28>Legitimate companies and organizations rarely ask for personal </c>
+
+cue-29
+00:01:31.779 --> 00:01:35.500 align:undefined
+<c.cue-29>information via email. So be wary of any request for such </c>
+
+cue-30
+00:01:35.510 --> 00:01:37.000 align:undefined
+<c.cue-30>information. </c>

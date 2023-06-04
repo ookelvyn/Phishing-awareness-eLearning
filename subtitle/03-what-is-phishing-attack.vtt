@@ -1,0 +1,286 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-5) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-6) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-7) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-8) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-9) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-10) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-11) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-12) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-13) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-14) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-15) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-16) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-17) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-18) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.059 --> 00:00:01.620 align:undefined
+<c.cue-0>What is phishing attack? </c>
+
+cue-1
+00:00:02.150 --> 00:00:05.920 align:undefined
+<c.cue-1>Phishing attack is defined to be a type of cyber attack where an attacker </c>
+
+cue-2
+00:00:05.929 --> 00:00:09.529 align:undefined
+<c.cue-2>attempts to trick victims into revealing sensitive information such as log in </c>
+
+cue-3
+00:00:09.539 --> 00:00:13.170 align:undefined
+<c.cue-3>credentials, credit card details or other personal information by </c>
+
+cue-4
+00:00:13.180 --> 00:00:17.000 align:undefined
+<c.cue-4>posing as a trustworthy entity in electronic communication such as </c>
+
+cue-5
+00:00:17.010 --> 00:00:19.940 align:undefined
+<c.cue-5>email, instant messages or text messages. </c>
+
+cue-6
+00:00:20.510 --> 00:00:24.450 align:undefined
+<c.cue-6>Fishing attacks often use social engineering techniques to manipulate and </c>
+
+cue-7
+00:00:24.459 --> 00:00:28.159 align:undefined
+<c.cue-7>persuade victims into divulging their personal information such as creating a </c>
+
+cue-8
+00:00:28.170 --> 00:00:30.379 align:undefined
+<c.cue-8>sense of urgency or emotional appeal. </c>
+
+cue-9
+00:00:31.149 --> 00:00:34.490 align:undefined
+<c.cue-9>In 2017, the man Evaldas Rimasauskas</c>
+
+cue-10
+00:00:34.900 --> 00:00:38.009 align:undefined
+<c.cue-10>was pleaded guilty for scamming Google and Facebook. </c>
+
+cue-11
+00:00:38.659 --> 00:00:42.580 align:undefined
+<c.cue-11>Rimasauskas operated by using a company he set up that employed a name </c>
+
+cue-12
+00:00:42.590 --> 00:00:46.209 align:undefined
+<c.cue-12>similar to Quanta, a reputable provider of data center hardware </c>
+
+cue-13
+00:00:46.220 --> 00:00:46.939 align:undefined
+<c.cue-13>products. </c>
+
+cue-14
+00:00:47.590 --> 00:00:51.180 align:undefined
+<c.cue-14>Between 2013 to 2015, he was sending </c>
+
+cue-15
+00:00:51.189 --> 00:00:55.099 align:undefined
+<c.cue-15>emails that looked like they were sent from Quanta to both Google and Facebook and </c>
+
+cue-16
+00:00:55.110 --> 00:00:58.040 align:undefined
+<c.cue-16>demanding payment for alleged services and products. </c>
+
+cue-17
+00:00:58.700 --> 00:01:02.490 align:undefined
+<c.cue-17>According to reports, he is accused of scamming $23 million </c>
+
+cue-18
+00:01:02.500 --> 00:01:06.400 align:undefined
+<c.cue-18>$100 million dollars from Facebook </c>

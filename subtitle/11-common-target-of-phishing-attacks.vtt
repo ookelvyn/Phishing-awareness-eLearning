@@ -1,0 +1,136 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-5) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-6) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-7) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-8) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.009 --> 00:00:03.859 align:undefined
+<c.cue-0>Common targets of phishing attacks. Phishing attacks can target anyone who </c>
+
+cue-1
+00:00:03.869 --> 00:00:07.659 align:undefined
+<c.cue-1>uses digital devices and online services. But some common targets </c>
+
+cue-2
+00:00:07.670 --> 00:00:11.659 align:undefined
+<c.cue-2>include individuals, small businesses, enterprises and government </c>
+
+cue-3
+00:00:11.670 --> 00:00:12.689 align:undefined
+<c.cue-3>organizations. </c>
+
+cue-4
+00:00:13.340 --> 00:00:17.319 align:undefined
+<c.cue-4>Attackers use a range of tactics such as impersonation, social </c>
+
+cue-5
+00:00:17.329 --> 00:00:21.180 align:undefined
+<c.cue-5>engineering and malware to trick their victims into divulging sensitive </c>
+
+cue-6
+00:00:21.190 --> 00:00:23.700 align:undefined
+<c.cue-6>information or gaining access to systems. </c>
+
+cue-7
+00:00:24.360 --> 00:00:28.360 align:undefined
+<c.cue-7>It is important to remain vigilant and take appropriate security measures to </c>
+
+cue-8
+00:00:28.370 --> 00:00:30.800 align:undefined
+<c.cue-8>protect against these attacks. </c>

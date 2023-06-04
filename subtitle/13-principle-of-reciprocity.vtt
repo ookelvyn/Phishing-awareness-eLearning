@@ -1,0 +1,181 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-5) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-6) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-7) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-8) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-9) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-10) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-11) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.109 --> 00:00:01.980 align:undefined
+<c.cue-0>Principle of reciprocity. </c>
+
+cue-1
+00:00:02.730 --> 00:00:06.340 align:undefined
+<c.cue-1>The concept of reciprocity has been studied extensively in social </c>
+
+cue-2
+00:00:06.349 --> 00:00:09.720 align:undefined
+<c.cue-2>psychology and it has been found that people tend to feel a sense of </c>
+
+cue-3
+00:00:09.729 --> 00:00:13.319 align:undefined
+<c.cue-3>obligation to repay favors or kindness that have been shown to them. </c>
+
+cue-4
+00:00:13.979 --> 00:00:17.959 align:undefined
+<c.cue-4>For example, if someone shares valuable information with you, you </c>
+
+cue-5
+00:00:17.969 --> 00:00:21.569 align:undefined
+<c.cue-5>may feel the need to reciprocate by sharing something useful with them in </c>
+
+cue-6
+00:00:21.579 --> 00:00:22.219 align:undefined
+<c.cue-6>return. </c>
+
+cue-7
+00:00:22.920 --> 00:00:26.750 align:undefined
+<c.cue-7>Another example is if someone gives you a small gift, you may feel </c>
+
+cue-8
+00:00:26.760 --> 00:00:30.409 align:undefined
+<c.cue-8>compelled to reciprocate by doing something nice for them in return. </c>
+
+cue-9
+00:00:31.250 --> 00:00:35.150 align:undefined
+<c.cue-9>in the context of fishing attacks, Attackers may use reciprocity to </c>
+
+cue-10
+00:00:35.159 --> 00:00:39.150 align:undefined
+<c.cue-10>trick victims into revealing sensitive information or performing an action by </c>
+
+cue-11
+00:00:39.159 --> 00:00:43.159 align:undefined
+<c.cue-11>offering something in return such as a free gift or service. </c>

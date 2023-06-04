@@ -1,0 +1,211 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-5) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-6) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-7) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-8) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-9) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-10) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-11) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-12) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-13) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.109 --> 00:00:01.690 align:undefined
+<c.cue-0>Principle of liking. </c>
+
+cue-1
+00:00:02.460 --> 00:00:06.340 align:undefined
+<c.cue-1>The principle of liking and persuasion suggests that people are more likely to </c>
+
+cue-2
+00:00:06.349 --> 00:00:09.550 align:undefined
+<c.cue-2>comply with requests from individuals they like or admire. </c>
+
+cue-3
+00:00:10.229 --> 00:00:14.020 align:undefined
+<c.cue-3>When a friend asks for assistance, it can be challenging to decline. </c>
+
+cue-4
+00:00:14.029 --> 00:00:17.799 align:undefined
+<c.cue-4>Whereas it is more straightforward to reject a request from a stranger. </c>
+
+cue-5
+00:00:18.450 --> 00:00:22.319 align:undefined
+<c.cue-5>Also, many individuals would go above and beyond to fulfill a </c>
+
+cue-6
+00:00:22.329 --> 00:00:24.010 align:undefined
+<c.cue-6>request from their loved ones. </c>
+
+cue-7
+00:00:24.719 --> 00:00:27.049 align:undefined
+<c.cue-7>But how is liking used in fishing? </c>
+
+cue-8
+00:00:27.729 --> 00:00:29.440 align:undefined
+<c.cue-8>Here is an example </c>
+
+cue-9
+00:00:30.110 --> 00:00:33.750 align:undefined
+<c.cue-9>when an attacker hacks someone's email account, the attacker may use </c>
+
+cue-10
+00:00:33.759 --> 00:00:37.700 align:undefined
+<c.cue-10>principles of liking by Impersonating someone the victim knows and trusts </c>
+
+cue-11
+00:00:37.709 --> 00:00:40.689 align:undefined
+<c.cue-11>such as a colleague, friend or family member. </c>
+
+cue-12
+00:00:41.290 --> 00:00:44.659 align:undefined
+<c.cue-12>This increases the likelihood that the victim will comply with their </c>
+
+cue-13
+00:00:44.669 --> 00:00:48.300 align:undefined
+<c.cue-13>request for sensitive information or payment. </c>

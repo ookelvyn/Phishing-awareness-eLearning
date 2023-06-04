@@ -1,0 +1,226 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-5) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-6) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-7) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-8) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-9) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-10) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-11) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-12) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-13) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-14) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.009 --> 00:00:01.940 align:undefined
+<c.cue-0>Principles of persuasion. </c>
+
+cue-1
+00:00:02.609 --> 00:00:06.380 align:undefined
+<c.cue-1>Doctor Robert Cialdini, the founder of Influence at work is a </c>
+
+cue-2
+00:00:06.389 --> 00:00:10.220 align:undefined
+<c.cue-2>Regent's Professor Emeritus of Psychology and Marketing at Arizona </c>
+
+cue-3
+00:00:10.229 --> 00:00:11.340 align:undefined
+<c.cue-3>State University. </c>
+
+cue-4
+00:00:11.979 --> 00:00:15.460 align:undefined
+<c.cue-4>Through out his career, he has dedicated himself to researching the </c>
+
+cue-5
+00:00:15.470 --> 00:00:19.010 align:undefined
+<c.cue-5>factors that lead people to agree to requests and say "Yes". </c>
+
+cue-6
+00:00:19.610 --> 00:00:23.510 align:undefined
+<c.cue-6>Based on his research, he formulated the seven principles of persuasion; </c>
+
+cue-7
+00:00:23.520 --> 00:00:27.360 align:undefined
+<c.cue-7>reciprocity, scarcity, authority, consistency </c>
+
+cue-8
+00:00:27.370 --> 00:00:29.840 align:undefined
+<c.cue-8>liking, consensus and unity. </c>
+
+cue-9
+00:00:30.520 --> 00:00:34.250 align:undefined
+<c.cue-9>The principle of persuasion is closely related to social engineering </c>
+
+cue-10
+00:00:34.259 --> 00:00:38.130 align:undefined
+<c.cue-10>because social engineering tactics often utilize psychological techniques </c>
+
+cue-11
+00:00:38.139 --> 00:00:41.860 align:undefined
+<c.cue-11>to manipulate their targets into performing actions that are not in their best </c>
+
+cue-12
+00:00:41.869 --> 00:00:42.569 align:undefined
+<c.cue-12>interest. </c>
+
+cue-13
+00:00:43.229 --> 00:00:47.020 align:undefined
+<c.cue-13>Let's look into these principles one after the other and see how they work in </c>
+
+cue-14
+00:00:47.029 --> 00:00:48.900 align:undefined
+<c.cue-14>phishing attacks. </c>

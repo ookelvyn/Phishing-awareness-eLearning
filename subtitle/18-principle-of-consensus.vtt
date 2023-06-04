@@ -1,0 +1,241 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-5) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-6) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-7) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-8) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-9) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-10) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-11) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-12) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-13) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-14) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-15) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.009 --> 00:00:01.960 align:undefined
+<c.cue-0>Principle of consensus. </c>
+
+cue-1
+00:00:02.750 --> 00:00:06.599 align:undefined
+<c.cue-1>The principle of consensus is also known as social proof. And this </c>
+
+cue-2
+00:00:06.610 --> 00:00:10.569 align:undefined
+<c.cue-2>suggests that people are more likely to take a specific action if they believe many </c>
+
+cue-3
+00:00:10.579 --> 00:00:12.159 align:undefined
+<c.cue-3>others are already doing it. </c>
+
+cue-4
+00:00:12.920 --> 00:00:16.860 align:undefined
+<c.cue-4>Which simply means that your actions are determined by the actions of other </c>
+
+cue-5
+00:00:16.870 --> 00:00:17.440 align:undefined
+<c.cue-5>people. </c>
+
+cue-6
+00:00:18.120 --> 00:00:21.809 align:undefined
+<c.cue-6>Has there ever been an instance where you decided to attend an event based on the </c>
+
+cue-7
+00:00:21.819 --> 00:00:25.520 align:undefined
+<c.cue-7>fact that your friends whom you asked about the event confirmed their </c>
+
+cue-8
+00:00:25.530 --> 00:00:26.329 align:undefined
+<c.cue-8>attendance? </c>
+
+cue-9
+00:00:26.950 --> 00:00:30.850 align:undefined
+<c.cue-9>Or have you ever supported a colleague or a friend because people around you </c>
+
+cue-10
+00:00:30.860 --> 00:00:31.649 align:undefined
+<c.cue-10>do so?</c>
+
+cue-11
+00:00:32.380 --> 00:00:35.369 align:undefined
+<c.cue-11>That's principle of consensus at influence. </c>
+
+cue-12
+00:00:36.069 --> 00:00:39.709 align:undefined
+<c.cue-12>An example of the principle of consensus in the context of a phishing </c>
+
+cue-13
+00:00:39.720 --> 00:00:43.540 align:undefined
+<c.cue-13>attack is when Attackers use social engineering tactics to create a sense of </c>
+
+cue-14
+00:00:43.549 --> 00:00:47.549 align:undefined
+<c.cue-14>urgency in the victim, and suggesting that many other people have already taken </c>
+
+cue-15
+00:00:47.560 --> 00:00:51.400 align:undefined
+<c.cue-15>advantage of a particular offer or clicked on a certain link. </c>

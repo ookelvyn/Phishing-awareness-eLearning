@@ -1,0 +1,76 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.009 --> 00:00:03.980 align:undefined
+<c.cue-0>Vishing: This is a common type of phishing that uses voice calls to trick the </c>
+
+cue-1
+00:00:03.990 --> 00:00:07.579 align:undefined
+<c.cue-1>victim into providing sensitive information such as credit card numbers, </c>
+
+cue-2
+00:00:07.590 --> 00:00:10.539 align:undefined
+<c.cue-2>passwords or personal identification numbers. </c>
+
+cue-3
+00:00:11.250 --> 00:00:14.949 align:undefined
+<c.cue-3>The attacker may impersonate a legitimate organization or use social </c>
+
+cue-4
+00:00:14.960 --> 00:00:18.200 align:undefined
+<c.cue-4>engineering tactics to gain the victim's trust. </c>

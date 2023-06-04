@@ -1,0 +1,181 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-5) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-6) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-7) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-8) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-9) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-10) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-11) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.009 --> 00:00:01.820 align:undefined
+<c.cue-0>What's in this course for you </c>
+
+cue-1
+00:00:02.450 --> 00:00:06.210 align:undefined
+<c.cue-1>before commencing this training, let's establish its purpose. </c>
+
+cue-2
+00:00:06.880 --> 00:00:10.699 align:undefined
+<c.cue-2>It is plausible that you have prior knowledge of several of the topics that we will </c>
+
+cue-3
+00:00:10.710 --> 00:00:11.550 align:undefined
+<c.cue-3>discuss. </c>
+
+cue-4
+00:00:12.210 --> 00:00:15.789 align:undefined
+<c.cue-4>However, since the cyber security environment is consistently </c>
+
+cue-5
+00:00:15.800 --> 00:00:19.549 align:undefined
+<c.cue-5>evolving, we must periodically update our knowledge and continuously </c>
+
+cue-6
+00:00:19.559 --> 00:00:21.860 align:undefined
+<c.cue-6>enhance our security awareness skills. </c>
+
+cue-7
+00:00:22.540 --> 00:00:26.260 align:undefined
+<c.cue-7>The goal here is to provide you with the necessary knowledge, attitudes and </c>
+
+cue-8
+00:00:26.270 --> 00:00:29.950 align:undefined
+<c.cue-8>skills to recognize and respond appropriately to fishing attacks. </c>
+
+cue-9
+00:00:30.590 --> 00:00:34.270 align:undefined
+<c.cue-9>We request that you approach this with an open mindset and utilize this </c>
+
+cue-10
+00:00:34.279 --> 00:00:37.669 align:undefined
+<c.cue-10>opportunity to refine your strategies that can enhance your overall </c>
+
+cue-11
+00:00:37.680 --> 00:00:39.000 align:undefined
+<c.cue-11>security. </c>

@@ -1,0 +1,46 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.009 --> 00:00:03.609 align:undefined
+<c.cue-0>Whaling: This is a form of spear phishing that targets high profile </c>
+
+cue-1
+00:00:03.619 --> 00:00:07.579 align:undefined
+<c.cue-1>individuals such as executives or politicians and attempts to trick </c>
+
+cue-2
+00:00:07.590 --> 00:00:11.590 align:undefined
+<c.cue-2>them into divulging sensitive information or transferring money to the attacker. </c>

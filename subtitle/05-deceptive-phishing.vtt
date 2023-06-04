@@ -1,0 +1,61 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.009 --> 00:00:03.660 align:undefined
+<c.cue-0>Deceptive phishing: This involves an attacker sending an email or </c>
+
+cue-1
+00:00:03.670 --> 00:00:07.219 align:undefined
+<c.cue-1>message that appears to be from a legitimate company or organization </c>
+
+cue-2
+00:00:07.230 --> 00:00:10.979 align:undefined
+<c.cue-2>often with a sense of urgency in requesting the user to click on a link or </c>
+
+cue-3
+00:00:10.989 --> 00:00:13.300 align:undefined
+<c.cue-3>provide sensitive information. </c>

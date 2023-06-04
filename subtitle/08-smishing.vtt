@@ -1,0 +1,121 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-5) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-6) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-7) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.579 --> 00:00:04.230 align:undefined
+<c.cue-0>Smishing: Smishin is a type of cyber attack that uses text messages, </c>
+
+cue-1
+00:00:04.239 --> 00:00:08.140 align:undefined
+<c.cue-1>SMS or messaging apps to trick people into giving out sensitive information or </c>
+
+cue-2
+00:00:08.149 --> 00:00:10.279 align:undefined
+<c.cue-2>downloading malware onto their device. </c>
+
+cue-3
+00:00:11.000 --> 00:00:14.569 align:undefined
+<c.cue-3>The term smishing is a combination of SMS and phishing.</c>
+
+cue-4
+00:00:15.279 --> 00:00:19.040 align:undefined
+<c.cue-4>Attackers favor using SMS over email for phishing due to the high </c>
+
+cue-5
+00:00:19.049 --> 00:00:22.909 align:undefined
+<c.cue-5>response rates of text messages, the cost effectiveness of bulk messaging </c>
+
+cue-6
+00:00:22.920 --> 00:00:26.780 align:undefined
+<c.cue-6>through affordable SMS packages and users difficulty in differentiating </c>
+
+cue-7
+00:00:26.790 --> 00:00:30.790 align:undefined
+<c.cue-7>between genuine and phishing URLS within SMS links. </c>

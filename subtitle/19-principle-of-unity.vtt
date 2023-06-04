@@ -1,0 +1,256 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-5) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-6) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-7) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-8) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-9) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-10) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-11) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-12) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-13) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-14) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-15) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-16) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.109 --> 00:00:01.700 align:undefined
+<c.cue-0>Principle of unity. </c>
+
+cue-1
+00:00:02.410 --> 00:00:06.280 align:undefined
+<c.cue-1>Unity is the idea that people are more likely to be persuaded by those who they </c>
+
+cue-2
+00:00:06.289 --> 00:00:10.279 align:undefined
+<c.cue-2>perceive as being part of the same group or sharing similar characteristics, </c>
+
+cue-3
+00:00:10.289 --> 00:00:11.960 align:undefined
+<c.cue-3>identity or even tribe. </c>
+
+cue-4
+00:00:12.550 --> 00:00:16.309 align:undefined
+<c.cue-4>During a study on a college campus, a young woman solicited </c>
+
+cue-5
+00:00:16.319 --> 00:00:19.079 align:undefined
+<c.cue-5>donations from people in traffic for a good cause. </c>
+
+cue-6
+00:00:19.840 --> 00:00:23.809 align:undefined
+<c.cue-6>The study revealed that when she added the statement, "I'm a student here too", </c>
+
+cue-7
+00:00:23.819 --> 00:00:27.430 align:undefined
+<c.cue-7>prior to making the request, the rate of donations increased by </c>
+
+cue-8
+00:00:27.440 --> 00:00:28.729 align:undefined
+<c.cue-8>400%. </c>
+
+cue-9
+00:00:29.280 --> 00:00:33.229 align:undefined
+<c.cue-9>Phishing Attackers can use the principle of unity to create a false </c>
+
+cue-10
+00:00:33.240 --> 00:00:35.439 align:undefined
+<c.cue-10>sense of shared identity with their target. </c>
+
+cue-11
+00:00:36.130 --> 00:00:40.090 align:undefined
+<c.cue-11>For example, an attacker may send a phishing email to an employee </c>
+
+cue-12
+00:00:40.099 --> 00:00:43.770 align:undefined
+<c.cue-12>of a company and pretend to be a member of the same department or team </c>
+
+cue-13
+00:00:43.779 --> 00:00:47.090 align:undefined
+<c.cue-13>using language and jargon that would be familiar to the employee. </c>
+
+cue-14
+00:00:47.720 --> 00:00:51.599 align:undefined
+<c.cue-14>This can create a sense of unity and shared identity making the employee </c>
+
+cue-15
+00:00:51.610 --> 00:00:55.229 align:undefined
+<c.cue-15>more likely to trust the attacker and follow the instructions in the phishing </c>
+
+cue-16
+00:00:55.240 --> 00:00:59.240 align:undefined
+<c.cue-16>email such as clicking on a link or entering login credentials. </c>

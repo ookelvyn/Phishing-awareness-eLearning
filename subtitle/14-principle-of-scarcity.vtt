@@ -1,0 +1,226 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-5) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-6) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-7) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-8) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-9) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-10) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-11) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-12) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-13) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-14) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.029 --> 00:00:01.779 align:undefined
+<c.cue-0>Principle of scarcity. </c>
+
+cue-1
+00:00:02.450 --> 00:00:06.119 align:undefined
+<c.cue-1>If news of an impending fuel shortage were to circulate, then fuel </c>
+
+cue-2
+00:00:06.130 --> 00:00:10.020 align:undefined
+<c.cue-2>stations would be flooded with people buying fuel, even if the news turned out to </c>
+
+cue-3
+00:00:10.029 --> 00:00:10.819 align:undefined
+<c.cue-3>be false. </c>
+
+cue-4
+00:00:11.590 --> 00:00:15.369 align:undefined
+<c.cue-4>The principle of scarcity is of the idea that people are more motivated to </c>
+
+cue-5
+00:00:15.380 --> 00:00:18.719 align:undefined
+<c.cue-5>act when they perceive a limited availability or scarcity of an </c>
+
+cue-6
+00:00:18.729 --> 00:00:20.420 align:undefined
+<c.cue-6>opportunity or product. </c>
+
+cue-7
+00:00:21.030 --> 00:00:24.889 align:undefined
+<c.cue-7>Phishing attackers exploit people's attraction to items that appear rare </c>
+
+cue-8
+00:00:24.899 --> 00:00:27.559 align:undefined
+<c.cue-8>by imposing deadlines on deals and emails </c>
+
+cue-9
+00:00:28.329 --> 00:00:32.029 align:undefined
+<c.cue-9>In a frequent strategy, an attacker informs individuals that their </c>
+
+cue-10
+00:00:32.040 --> 00:00:35.959 align:undefined
+<c.cue-10>account will be disabled within 24 hours if they do not click on a </c>
+
+cue-11
+00:00:35.970 --> 00:00:37.169 align:undefined
+<c.cue-11>link to resolve it. </c>
+
+cue-12
+00:00:37.900 --> 00:00:41.470 align:undefined
+<c.cue-12>This can pressure the recipient into clicking on a link or giving away their </c>
+
+cue-13
+00:00:41.479 --> 00:00:45.029 align:undefined
+<c.cue-13>personal information without taking the time to carefully evaluate the </c>
+
+cue-14
+00:00:45.040 --> 00:00:48.200 align:undefined
+<c.cue-14>legitimacy of the email or its contents. </c>

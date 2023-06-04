@@ -1,0 +1,106 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-5) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-6) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.009 --> 00:00:01.580 align:undefined
+<c.cue-0>Now, let's wrap up. </c>
+
+cue-1
+00:00:02.329 --> 00:00:05.880 align:undefined
+<c.cue-1>I hope this e-learning course on fishing attacks and the principles of </c>
+
+cue-2
+00:00:05.889 --> 00:00:08.659 align:undefined
+<c.cue-2>persuasion has been informative and helpful to you. </c>
+
+cue-3
+00:00:09.239 --> 00:00:13.199 align:undefined
+<c.cue-3>By now, you should have a better understanding of the various types of phishing </c>
+
+cue-4
+00:00:13.210 --> 00:00:17.059 align:undefined
+<c.cue-4>attacks, the strategies cyber criminals use to deceive their targets </c>
+
+cue-5
+00:00:17.079 --> 00:00:20.709 align:undefined
+<c.cue-5>and how to protect yourself and your organization from falling victim to these </c>
+
+cue-6
+00:00:20.719 --> 00:00:22.600 align:undefined
+<c.cue-6>malicious schemes. </c>

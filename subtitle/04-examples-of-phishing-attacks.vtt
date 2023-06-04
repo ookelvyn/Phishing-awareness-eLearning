@@ -1,0 +1,46 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24px;
+	color: #FFFFFF;
+	background: #2D2D2D;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24px;
+	color: #FFFFFF;
+	background: #2D2D2D;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24px;
+	color: #FFFFFF;
+	background: #2D2D2D;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.009 --> 00:00:02.180 align:undefined
+<c.cue-0>Examples of fishing attacks </c>
+
+cue-1
+00:00:02.799 --> 00:00:06.769 align:undefined
+<c.cue-1>Now that we have a grasp on what a fishing attack entails, let's delve into the </c>
+
+cue-2
+00:00:06.780 --> 00:00:09.100 align:undefined
+<c.cue-2>different types of fishing attacks. </c>

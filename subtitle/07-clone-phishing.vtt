@@ -1,0 +1,106 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-5) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-6) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.009 --> 00:00:03.569 align:undefined
+<c.cue-0>Clone phishing: Clone phishing is a type of fishing attack where an </c>
+
+cue-1
+00:00:03.579 --> 00:00:07.570 align:undefined
+<c.cue-1>attacker creates a nearly identical copy of a legitimate email such as </c>
+
+cue-2
+00:00:07.579 --> 00:00:11.340 align:undefined
+<c.cue-2>from a trusted company or colleague with the intent of tricking the recipient into </c>
+
+cue-3
+00:00:11.350 --> 00:00:14.979 align:undefined
+<c.cue-3>clicking on a malicious link or opening a malware infected attachment. </c>
+
+cue-4
+00:00:15.739 --> 00:00:19.309 align:undefined
+<c.cue-4>The clone email often looks convincing with similar logos, sender </c>
+
+cue-5
+00:00:19.319 --> 00:00:23.170 align:undefined
+<c.cue-5>names and formatting but may have slight changes in the content such as a </c>
+
+cue-6
+00:00:23.180 --> 00:00:27.180 align:undefined
+<c.cue-6>different sender email address or a sense of urgency to take action. </c>

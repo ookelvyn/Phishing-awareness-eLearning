@@ -1,0 +1,148 @@
+#sidebar .custom-menu{
+	z-index: 100;
+}
+
+
+#content .top-ruler{
+	height: 10px;
+	background-color: #fe9800;
+}
+
+#content .text-box{
+        min-height: 30%;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-top: 7%;
+        font: 50px;
+        background-color: #013860;
+        color: #fff;
+        font-family: SegoeUI-Bold,Helvetica,Arial,Serif;
+      }
+
+#content .text-box h1{
+	font-weight: bold;
+	color: #fff;
+	padding-top: 20px;
+	font-size: 60px;
+	text-align: center;
+}
+
+#content .text-box .content-text{
+	font-size: 19px;
+	padding: 0 60px 20px 60px;
+	text-align: -webkit-auto;
+}
+
+#content .image-container img{
+	margin-left: 10%;
+	  width: 80%;
+	  background-image: center center no-repeat;
+	  background-size: cover;
+}
+
+#content .bottom-button{
+	margin-top: 10px;
+	float: right;
+	margin-right: 10%;
+}
+
+/*For Exercises*/
+
+#content .content-holder{
+	width: 80%;
+	margin-left: 10%;
+	height: auto;
+	background-color: #fff;
+}
+
+#content .content-holder .top-ruler{
+	background-color: #013860;
+	height: 50px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+#content .content-holder .questions{
+	padding: 1rem 0;
+	line-height: 2.3;
+	margin: 0 1rem;
+	border-bottom: 4px solid #fe9800!important;
+}
+
+#content .content-holder .answers{
+	padding-top: 1rem;
+	/*padding-left: 5rem;*/
+	margin-top: 20px;	
+	border-bottom: 4px solid #fe9800!important;
+}
+
+#content .content-holder .answers label{
+	padding-left: 5rem;
+}
+
+#content .content-holder .answers .form-check{
+	padding-left: 45px;
+	font-size: 24px;
+	padding-bottom: 30px;
+}
+
+.form-check-input{
+	margin-top: 2.3rem;
+	border: 6px solid black;
+}
+
+#content .question-button{
+	margin-top: 10px;
+	float: right;
+	background-color: #fff;
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+#content .question-button .btn{
+	float: right;
+}
+
+
+/*Prev & Next Button*/
+#content .bottom-right,
+#content .bottom-left{
+	position: absolute;
+	bottom: 0;
+	transform: translateY(-50%);
+	z-index: 100;
+	cursor: pointer;
+	text-align: center;
+}
+
+#content .bottom-right{
+	right: 0;
+	/*position: absolute;*/
+}
+
+#content .bottom-left{
+	left: 0;
+}
+
+/*End of Prev & Next Button*/
+
+/*Radio button*/
+input[type="radio"] {
+  -webkit-appearance: none; /* Remove default appearance */
+  width: 30px; /* Set width and height of the radio */
+  height: 30px;
+  border-radius: 50%; /* Create circular shape */
+  border: 2px solid #013860; /* Add border */
+  margin: 30px 10px 0 0; /* Add margin */
+}
+
+input[type="radio"]:checked {
+  background-color: #013860!important; /* Change background color when checked */
+}
+
+.alert-success{
+	font: 24px;
+}
+
+/*FOR QUIZ*/
+

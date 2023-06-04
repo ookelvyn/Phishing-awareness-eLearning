@@ -1,0 +1,316 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-5) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-6) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-7) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-8) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-9) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-10) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-11) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-12) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-13) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-14) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-15) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-16) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-17) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-18) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-19) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-20) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.029 --> 00:00:02.019 align:undefined
+<c.cue-0>Principle of consistency. </c>
+
+cue-1
+00:00:02.660 --> 00:00:06.659 align:undefined
+<c.cue-1>Do you have a friend or colleague who repeatedly asks for small favors </c>
+
+cue-2
+00:00:06.670 --> 00:00:10.609 align:undefined
+<c.cue-2>such as financial assistance or other forms of help? And because the requests </c>
+
+cue-3
+00:00:10.619 --> 00:00:14.329 align:undefined
+<c.cue-3>are not too demanding, then you feel obligated to comply with their requests. </c>
+
+cue-4
+00:00:14.979 --> 00:00:18.399 align:undefined
+<c.cue-4>If such individuals eventually request a more significant </c>
+
+cue-5
+00:00:18.409 --> 00:00:21.409 align:undefined
+<c.cue-5>favor, you are more likely to grant their request. </c>
+
+cue-6
+00:00:22.040 --> 00:00:25.540 align:undefined
+<c.cue-6>Fraudsters exploit people's tendency to remain consistent by </c>
+
+cue-7
+00:00:25.549 --> 00:00:28.969 align:undefined
+<c.cue-7>requesting something minor in an initial email and then gradually </c>
+
+cue-8
+00:00:28.979 --> 00:00:31.739 align:undefined
+<c.cue-8>escalating their demands in subsequent messages. </c>
+
+cue-9
+00:00:32.439 --> 00:00:36.310 align:undefined
+<c.cue-9>One example of the principle of consistency in the context of a phishing </c>
+
+cue-10
+00:00:36.319 --> 00:00:40.189 align:undefined
+<c.cue-10>attack could be when an attacker sends an initial email asking the victim </c>
+
+cue-11
+00:00:40.200 --> 00:00:41.340 align:undefined
+<c.cue-11>to fill out a survey, </c>
+
+cue-12
+00:00:42.130 --> 00:00:46.029 align:undefined
+<c.cue-12>the victim completes the survey providing personal information such as </c>
+
+cue-13
+00:00:46.040 --> 00:00:47.830 align:undefined
+<c.cue-13>their name and email address. </c>
+
+cue-14
+00:00:48.540 --> 00:00:52.459 align:undefined
+<c.cue-14>Later, the attacker sends a follow up email posing as a trustworthy </c>
+
+cue-15
+00:00:52.470 --> 00:00:56.139 align:undefined
+<c.cue-15>organization and asks the victim to enter their credit card information to </c>
+
+cue-16
+00:00:56.150 --> 00:00:59.889 align:undefined
+<c.cue-16>complete a purchase, citing their previous completion of the survey as </c>
+
+cue-17
+00:00:59.900 --> 00:01:01.299 align:undefined
+<c.cue-17>evidence of their interest. </c>
+
+cue-18
+00:01:02.090 --> 00:01:05.980 align:undefined
+<c.cue-18>The victim may be more likely to comply with this request due to the principle of </c>
+
+cue-19
+00:01:05.989 --> 00:01:09.849 align:undefined
+<c.cue-19>consistency as they have already taken a small step towards providing </c>
+
+cue-20
+00:01:09.860 --> 00:01:11.800 align:undefined
+<c.cue-20>personal information.</c>

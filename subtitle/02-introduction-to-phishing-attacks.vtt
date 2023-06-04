@@ -1,0 +1,181 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-5) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-6) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-7) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-8) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-9) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-10) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-11) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.109 --> 00:00:02.259 align:undefined
+<c.cue-0>Introduction to fishing attack </c>
+
+cue-1
+00:00:02.990 --> 00:00:06.590 align:undefined
+<c.cue-1>In today's digital age, phishing attacks have become increasingly </c>
+
+cue-2
+00:00:06.599 --> 00:00:08.289 align:undefined
+<c.cue-2>common and sophisticated </c>
+
+cue-3
+00:00:09.149 --> 00:00:13.050 align:undefined
+<c.cue-3>Cyber criminals use a variety of techniques to manipulate people into giving </c>
+
+cue-4
+00:00:13.060 --> 00:00:16.819 align:undefined
+<c.cue-4>out their personal information, often relying on persuasion principles and </c>
+
+cue-5
+00:00:16.829 --> 00:00:19.329 align:undefined
+<c.cue-5>social engineering tactics to trick victims. </c>
+
+cue-6
+00:00:19.979 --> 00:00:23.760 align:undefined
+<c.cue-6>This course is designed to provide you with a comprehensive understanding of the </c>
+
+cue-7
+00:00:23.770 --> 00:00:27.770 align:undefined
+<c.cue-7>persuasion principles used in phishing attacks and how to identify and protect </c>
+
+cue-8
+00:00:27.780 --> 00:00:29.290 align:undefined
+<c.cue-8>yourself from such attacks. </c>
+
+cue-9
+00:00:29.899 --> 00:00:33.810 align:undefined
+<c.cue-9>Through this course, you will gain valuable insights into the psychology of </c>
+
+cue-10
+00:00:33.819 --> 00:00:37.380 align:undefined
+<c.cue-10>phishing attacks. Recognize common red flags and learn best </c>
+
+cue-11
+00:00:37.389 --> 00:00:41.100 align:undefined
+<c.cue-11>practices for protecting your personal information online. </c>

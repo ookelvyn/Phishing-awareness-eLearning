@@ -1,0 +1,91 @@
+WEBVTT
+
+STYLE
+::cue(.cue-0) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-1) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-2) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-3) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-4) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+STYLE
+::cue(.cue-5) {
+	font: Roboto-Regular;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24;
+	color: #ffffff;
+	background: #000000;
+	text-decoration: unset;
+}
+
+cue-0
+00:00:00.009 --> 00:00:02.640 align:undefined
+<c.cue-0>Red flags to look out for in emails.</c>
+
+cue-1
+00:00:03.289 --> 00:00:07.179 align:undefined
+<c.cue-1>To protect yourself against phishing attacks, it is essential to be able to </c>
+
+cue-2
+00:00:07.190 --> 00:00:09.489 align:undefined
+<c.cue-2>identify the red flags on emails. </c>
+
+cue-3
+00:00:10.079 --> 00:00:14.060 align:undefined
+<c.cue-3>This includes recognizing suspicious sender addresses, links </c>
+
+cue-4
+00:00:14.069 --> 00:00:16.700 align:undefined
+<c.cue-4>and attachments among other indicators. </c>
+
+cue-5
+00:00:17.370 --> 00:00:19.700 align:undefined
+<c.cue-5>Here are common ones. </c>
